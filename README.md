@@ -1,6 +1,6 @@
 # invoiceninja
 
-You can use this Dockerfile to build an image for Invoice Ninja that will run on a Raspberry Pi III (arm7v). 
+You can use this Dockerfile to build an image for Invoice Ninja that will run on a Raspberry Pi 3 (arm7v). 
 
 I left the original code in the Dockerfile commented out so that you can have an idea of the changes required to get this up on a RPI. 
 
